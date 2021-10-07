@@ -34,7 +34,7 @@ export const createStyle = () => {
   }
   .container {
     padding: 20px;
-    min-width: 1280px;
+    max-width: 1280px;
     margin: 0 auto;
   }
   .movies {
