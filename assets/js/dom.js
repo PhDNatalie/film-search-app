@@ -43,8 +43,6 @@ export const createStyle = () => {
     gap: 20px;
   }
   .movie {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
     align-content: center;
     justify-content: center;
